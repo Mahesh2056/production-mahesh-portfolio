@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4389cf93.css",
+    "main.js": "/static/js/main.f3439e82.js",
+    "static/js/453.419a5d54.chunk.js": "/static/js/453.419a5d54.chunk.js",
+    "static/media/MAHESH CHAUDHARY.pdf": "/static/media/MAHESH CHAUDHARY.325a4db17f3687fbbc6c.pdf",
+    "index.html": "/index.html",
+    "main.4389cf93.css.map": "/static/css/main.4389cf93.css.map",
+    "main.f3439e82.js.map": "/static/js/main.f3439e82.js.map",
+    "453.419a5d54.chunk.js.map": "/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4389cf93.css",
+    "static/js/main.f3439e82.js"
+  ]
+}
